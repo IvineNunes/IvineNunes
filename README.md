@@ -51,7 +51,7 @@ Acredito no equilíbrio entre desenvolvimento e testes para entregar soluções 
 ---
 | Estatísticas | Linguagens |
 |--------------|------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvineNunes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvineNunes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6) |
+|![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IvineNunes&show_icons=true&theme=transparent)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvineNunes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6) |
 
 
 ### 🌟 Repositórios em destaque
