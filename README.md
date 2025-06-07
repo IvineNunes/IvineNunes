@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ivine Nunes
 
-**`Backend Developer em formação | Go | QA | Python | Java`**
+**`Backend Developer em formação | QA | Go | Python | Java | MySQL`**
 
 Sou uma desenvolvedora em transição para o backend, com foco atual em **Go (Golang)** e **Quality Assurance (QA)**, tanto em testes manuais quanto automatizados. Também estou em constante evolução nas linguagens **Python** e **Java**, construindo uma base sólida em lógica de programação, testes e desenvolvimento de APIs.
 
